@@ -10,8 +10,8 @@ For this You have to install udacity self driving car simulator https://github.c
 5)cv2
 6)PIL
 
-Run the pretrained model
-Start up udacity self driving simulator, choose a scene and press the Autonomous Mode button.
+Run the pretrained model -  
+Start udacity self driving simulator, choose a scene and press the Autonomous Mode button.
 then run Drive.py
 
 To train the model
